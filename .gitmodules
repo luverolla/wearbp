@@ -1,0 +1,9 @@
+[submodule "wearbp-matlab"]
+	path = wearbp-matlab
+	url = https://github.com/luverolla/wearbp-matlab
+[submodule "wearbp-firmware"]
+	path = wearbp-firmware
+	url = https://github.com/luverolla/wearbp-firmware
+[submodule "wearbp-validation"]
+	path = wearbp-validation
+	url = https://github.com/luverolla/wearbp-validation
